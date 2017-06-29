@@ -1,0 +1,26 @@
+{
+  "name": "eng-mmarouf/metronic",
+  "description": "Metronic - admin control panel and dashboard that's based on Bootstrap 3",
+  "homepage": "",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Motaz Marouf",
+      "email": "enjoy-life@hotmail.de"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/eng-mmarouf/metronic/issues"
+  }
+}
